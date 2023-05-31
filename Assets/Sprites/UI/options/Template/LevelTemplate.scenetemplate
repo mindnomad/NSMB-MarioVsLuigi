@@ -81,6 +81,13 @@ MonoBehaviour:
     instantiationMode: 1
   - dependency: {fileID: 7400000, guid: df558f0ae33839247b2a61d0492e623a, type: 2}
     instantiationMode: 1
+<<<<<<< Updated upstream:Assets/Sprites/UI/options/Template/LevelTemplate.scenetemplate
+=======
+  - dependency: {fileID: 12800000, guid: af049b5cb0e757f4097d7cf076f3b33f, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: b455056ca00f84e48a8040f94ae8170d, type: 3}
+    instantiationMode: 1
+>>>>>>> Stashed changes:Assets/Scenes/Template/LevelTemplate.scenetemplate
   - dependency: {fileID: 11400000, guid: e5449c1ce4c6b6940b2f5d1730e72274, type: 2}
     instantiationMode: 1
   - dependency: {fileID: 2100000, guid: 2e11e9b2a53c94b4d8322086a8a9844d, type: 2}
@@ -121,6 +128,14 @@ MonoBehaviour:
   - dependency: {fileID: 11400000, guid: d9fb0796a9d007641a5f2d4f66b72964, type: 2}
     instantiationMode: 1
   - dependency: {fileID: 102900000, guid: e725a070cec140c4caffb81624c8c787, type: 3}
+<<<<<<< Updated upstream:Assets/Sprites/UI/options/Template/LevelTemplate.scenetemplate
+=======
+    instantiationMode: 1
+  - dependency: {fileID: 7400000, guid: a064ba5a283f38e4880b77a16452aa64, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 7523289063499453450, guid: 1ce5864bde999014a92015b065520add,
+      type: 3}
+>>>>>>> Stashed changes:Assets/Scenes/Template/LevelTemplate.scenetemplate
     instantiationMode: 1
   - dependency: {fileID: 11400000, guid: af342a83ccfafe74b930ff5a647468ec, type: 2}
     instantiationMode: 1
@@ -173,6 +188,8 @@ MonoBehaviour:
   - dependency: {fileID: 12800000, guid: 14a81ea88bcdad3448e48994f7030a78, type: 3}
     instantiationMode: 1
   - dependency: {fileID: 2800000, guid: 2efc839a0b7cdc948ab7008f5c4ce6a1, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 1b91bb22255a3064aa9af1f263580e06, type: 2}
     instantiationMode: 1
   - dependency: {fileID: 7400000, guid: 4b7926e43c4eb4f41838d061281decf2, type: 2}
     instantiationMode: 1
